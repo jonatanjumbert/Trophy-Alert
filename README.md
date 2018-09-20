@@ -6,8 +6,8 @@ Es tan fácil como agregar a tu lista de seguimiento a los jugadores que te inte
 
 ## Descarga Trophy Alert
 * [Versión estable](https://play.google.com/store/apps/details?id=com.jonatanjumbert.trophyalert) - version 0.5.1
-* [Versión beta (pública)](https://play.google.com/store/apps/details?id=com.jonatanjumbert.trophyalert) - version 0.5.2
-* [Versión alpha (cerrada)](https://play.google.com/store/apps/details?id=com.jonatanjumbert.trophyalert) - version 0.5.3
+* [Versión beta (pública)](https://play.google.com/apps/testing/com.jonatanjumbert.trophyalert) - version 0.5.2
+* [Versión alpha (cerrada)](https://play.google.com/apps/testing/com.jonatanjumbert.trophyalert) - version 0.5.3
 
 ### Historial de cambios
 * Versión Alpha 0.5.3 (20/09/2018)
