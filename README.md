@@ -8,6 +8,16 @@ Trophy Alert, la App que te avisa del cambio de trofeos de los jugadores de Clas
 ### Historial de cambios
 * Versión Alpha 0.5.3
   * Optimizaciones y mejoras de rendimiento. Mejora velocidad de carga.
-  * 
+  * Te avisamos cuando haya una nueva versión de la APP disponible.
+  * Botón "Empezar" redirige a Mi Perfil o Seguidos, dependiendo de los datos que hayas completado.
+  * Actualización iconos de la App.
+  * Implementadas notificaciones PUSH.
+  * Se evita la utilización de caracteres no válidos al introducir el ID de Clash Royale.
+  * Al cargar Ranking local de jugadores sin datos, avisamos al usuario.
+  * Integración compras inApp.
+  * Pantalla de ayuda con más información.
+  * Menú con ScrollView para que se vean todos los items.
+  * Se deshabilita temporalmente el Swipe entre vistas.
+  
 
 ### Política de Privacidad
