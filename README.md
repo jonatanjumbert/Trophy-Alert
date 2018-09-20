@@ -1,1 +1,3 @@
-# Trophy-Alert
+# Trophy Alert
+
+### Política de Privacidad
