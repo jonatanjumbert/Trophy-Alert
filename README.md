@@ -23,7 +23,7 @@ Trophy Alert, la App que te avisa del cambio de trofeos de los jugadores de Clas
 ### Política de Privacidad
 Debes aceptar los permisos que te solicitamos en la App para que te podamos enviar notificaciones sobre la evolución de trofeos de tus seguidos, ofertas personalizadas en la tienda, ser notificados cuando haya eventos especiales o se acerque el fin de la temporada de Clash Royale.
 
-También necesitamos que aceptes los permisos para, en el caso que no desbloquees el item de librarte la publicidad, te podamos mostrar anuncios relevantes a tus intereses.
+También necesitamos que aceptes los permisos paraa mostrarte mostrar anuncios relevantes a tus intereses.
 
 En ningún caso compartiremos tu información con terceros para fines comerciales. Los datos que guardamos los necesitamos para mejorar tu experiencia de usuario en la aplicación, por ejemplo la resolución de pantalla de tu teléfono, el idioma, la versión de Android y el modelo, así como la versión de la aplicación que estás utilizando o la fecha en que te registraste.
 
