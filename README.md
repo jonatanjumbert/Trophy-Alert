@@ -14,6 +14,7 @@ Es tan fácil como agregar a tu lista de seguimiento a los jugadores que te inte
   * Corrección error al recuperar trofeos de los seguidos.
   * Mensaje de gracias al comprar un item.
   * Nuevo item de compra. Límite de hasta 200 jugadores seguidos.
+  * Mostramos el clan del jugador en las notificaciones y lista de seguidos.
 
 * Versión Alpha 0.5.3 (20/09/2018)
   * Optimizaciones y mejoras de rendimiento. Mejora velocidad de carga.
