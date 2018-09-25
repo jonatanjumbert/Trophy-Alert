@@ -5,8 +5,7 @@ Trophy Alert, la App que te avisa del cambio de trofeos de los jugadores de Clas
 Es tan fácil como agregar a tu lista de seguimiento a los jugadores que te interese monitorizar y empezarás a recibir notificaciones de cuando ganen o pierdan trofeos según la configuración que establezcas en Trophy Alert. Podrás añadir a tu lista de seguidos jugadores mediante su ID de Clash Royale en la pantalla de "Siguiendo" o bien seleccionándolos de la lista de Top Jugadores del ranking global o ranking por paises.
 
 ## Descarga Trophy Alert
-* [Versión estable](https://play.google.com/store/apps/details?id=com.jonatanjumbert.trophyalert) - version 0.5.1
-* [Versión beta (pública)](https://play.google.com/apps/testing/com.jonatanjumbert.trophyalert) - version 0.5.4
+* [Versión estable](https://play.google.com/store/apps/details?id=com.jonatanjumbert.trophyalert) - version 0.5.5
 
 ### Historial de cambios
 * Versión Alpha 0.5.5 (25/09/2018)
