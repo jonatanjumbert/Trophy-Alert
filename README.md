@@ -10,6 +10,12 @@ Es tan fácil como agregar a tu lista de seguimiento a los jugadores que te inte
 * [Versión alpha (cerrada)](https://play.google.com/apps/testing/com.jonatanjumbert.trophyalert) - version 0.5.3
 
 ### Historial de cambios
+* Versión Alpha 0.5.5 (25/09/2018)
+  * Nuevos textos de ayuda.
+  * Corrección error al recuperar trofeos de los seguidos.
+  * Mensaje de gracias al comprar un item.
+  * Nuevo item de compra. Límite de hasta 200 jugadores seguidos.
+
 * Versión Alpha 0.5.3 (20/09/2018)
   * Optimizaciones y mejoras de rendimiento. Mejora velocidad de carga.
   * Te avisamos cuando haya una nueva versión de la APP disponible.
